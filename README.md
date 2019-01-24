@@ -1,5 +1,6 @@
 # Raspberry Pi Thermostat-3rd Year Project
 As part of the final/3rd year group project, we were tasked with creating a Thermostat using Raspberry Pi in Python.
+The Python script can be found in the ![Temperature Sensing and Control.py](https://github.com/Extinction135/Raspberry-Pi-Thermostat-3rd-Year-Project-/blob/master/Temperature%20Sensing%20and%20Control.py) file. 
 
 The following pictures show how the circuits were set-up with Raspberry Pi:
 
